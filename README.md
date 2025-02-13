@@ -6,6 +6,8 @@ __About this Course__
 
 This course was developed at the Institute for Neuromodulation and Neurotechnology at the University and University Hospital Tuebingen, Germany. We have used similar notebooks to teach undegraduates for data analysis in our course "Neuromodulation and Neuroplasticity". We have adapted the materials to be for a more general audience, but applications and exercise of course still show its neuroscientific origins.
 
+_We intend to include more recap sessions and exercises in the future!_
+
 __Course Authors__   
 Joshua P. Woller, M.Sc.     (@syntheticdinosaur)   
 David Menrath, M.Sc.        (@DavidMenrath)
