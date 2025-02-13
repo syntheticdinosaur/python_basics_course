@@ -16,6 +16,8 @@ To use Jupyter Notebooks, you typically need **Python** installed on your comput
 
 Below, we present different ways to run the notebooks. Choose the option that best fits your needs.
 
+[Here](jupyter_nb_intro.md) you can find more information on Jupyter Notebooks.
+
 ### Running the Notebooks
 
 #### 1. Run Online with Binder
