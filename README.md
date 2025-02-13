@@ -26,8 +26,7 @@ Binder lets you run Jupyter Notebooks directly in your web browser without insta
 
 **Click below to launch the course in Binder:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidMenrath/notebook_testing/HEAD)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/syntheticdinosaur/python_basics_course/main)
 
 #### 2. Run Online with Google Colab
 
