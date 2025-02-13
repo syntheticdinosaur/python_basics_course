@@ -34,7 +34,7 @@ Google Colab is a free cloud-based notebook service provided by Google. It allow
 
 **Click below to open the course in Google Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DavidMenrath/notebook_testing/blob/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/syntheticdinosaur/python_basics_course/blob/main)
 
 
 #### 3. Run Online with GitHub Codespaces
