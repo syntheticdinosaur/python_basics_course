@@ -27,8 +27,10 @@ If that's not the case, it might be good to brush up on the respective sessions.
 8. **Can you write and call basic functions in Python, including using return statements?**  
    [Yes] / [No]
 
-9. **Do you know how to define a class in Python and create objects from that class?**  
+
+9. **Have you used NumPy to create arrays and perform basic numerical operations (e.g., addition, mean)?**  
    [Yes] / [No]
 
-10. **Have you used NumPy to create arrays and perform basic numerical operations (e.g., addition, mean)?**  
+10. **Do you know how to define a class in Python and create objects from that class?**  
    [Yes] / [No]
+
